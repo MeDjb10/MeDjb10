@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Mohamed Amine JABOU]
+# Hi there! 👋 I'm Mohamed Amine JABOU
 
 Welcome to my GitHub profile! I'm a passionate and motivated software developer, student at **ISET Charguia**, and a lifelong learner. My journey is focused on leveraging technology to solve real-world problems while continuously improving my skills and contributing to impactful projects.
 

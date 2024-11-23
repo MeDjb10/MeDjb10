@@ -22,12 +22,12 @@ Here are some of the key projects I've worked on:
 - **Description:** Streamlined restaurant operations with a focus on table reservations, payment integration, and service-oriented architecture.
 - **Highlights:** Integrated REST and SOAP web services, ensured seamless data flow, and followed a microservice structure.
 
-### 🔹 **Election Management App**
+### 🔹 **Election Management App (Collaboratif)**
 - **Tech Stack:** Node.js, Angular, MongoDB
 - **Description:** Built a robust application to manage presidential elections, including real-time results, user profiles, and voting features.
 - **Highlights:** Explored MongoDB and NoSQL databases, implemented JWT authentication, and added real-time updates.
 
-### 🔹 **AI-Powered Recruitment Platform**
+### 🔹 **AI-Powered Recruitment Platform (Collaboratif)**
 - **Tech Stack:** Angular, Django
 - **Description:** Aimed to simplify and automate the recruitment process with AI-powered job and candidate matching.
 - **Highlights:** Built with a Scrum methodology and role-based access control using JWT.

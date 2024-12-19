@@ -17,11 +17,9 @@
 
 ## 🌐 Connect with Me
 - 📫 Email: [jabou.medamine@gmail.com](mailto:jabou.medamine@gmail.com)
-- 📫 Work Email: [mouelhi.medtaleb@gmail.com](mailto:mouelhi.medtaleb@gmail.com)
 - 📱 Social:
   - [LinkedIn](https://www.linkedin.com/in/med-amine-jabou-7b1980337/)
-  - [Facebook](https://www.facebook.com/taysir.bouzidi)
-  - [Instagram](https://www.instagram.com/bouzidi_taissir/)
+  - [Instagram](https://www.instagram.com/medaminejb_03/)
 
 ---
 

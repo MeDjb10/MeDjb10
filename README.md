@@ -9,10 +9,10 @@
 ## 👋 About Me
 - **Name:** Mohamed Amine JABOU
 - **Role:** Software Developer and Tech Enthusiast
-- **Goals:** Building innovative and scalable solutions 🚀, mastering software architecture, and achieving a 100kg bench press by 2025.
-- **Passion:** Entrepreneurship, problem-solving, and crafting impactful solutions.
+- **Goals:** Building innovative and scalable solutions 🚀 and mastering software architecture.
+- **Passion:** Problem-solving, and crafting impactful solutions.
 - **Soft Skills:** Adaptability, teamwork, and problem-solving mindset.
-- **Interests:** Fitness, Web and Mobile Development, Data Analytics.
+- **Interests:** Fitness, Web and Mobile Development.
 
 ---
 

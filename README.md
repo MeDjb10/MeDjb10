@@ -18,6 +18,8 @@
 
 ## 🌐 Connect with Me
 - 📫 Email: [jabou.medamine@gmail.com](mailto:jabou.medamine@gmail.com)
+- 🌐 My Resume
+    - [ATS-Compatible CV](https://github.com/MeDjb10/MeDjb10/blob/main/JabouMohamedAmine-PFE-CV.pdf)
 - 📱 Social:
   - [LinkedIn](https://www.linkedin.com/in/med-amine-jabou-7b1980337/)
   - [Instagram](https://www.instagram.com/medaminejb_03/)
@@ -71,7 +73,7 @@
 
 ---
 
-### 📚 [Restaurant Reservation System](https://github.com/MeDjb10/SOA-ESB-restaurant-reservation-system)
+### 🍽️ [Restaurant Reservation System](https://github.com/MeDjb10/SOA-ESB-restaurant-reservation-system)
 **Overview:** Manages restaurant reservations with seamless integration for table availability and payment processes using SOA and ESB architecture.
 
 ---

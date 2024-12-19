@@ -1,7 +1,7 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&weight=700&size=28&duration=2500&pause=1200&color=FF5733&center=true&vCenter=true&width=800&lines=Hello%F0%9F%91%8B%2C+I'm+Mohamed+Amine+JABOU;Software+Engineer+%7C+Tech,DevOps+Enthusiast;Passionate+About+Creating+Solutions!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1200&color=FF5733&center=true&vCenter=true&width=800&lines=Hello%F0%9F%91%8B%2C+I'm+Mohamed+Amine+JABOU;Software+Engineer+%7C+Tech+Enthusiast;Passionate+About+Innovative+Solutions!" alt="Typing SVG" /></a>
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=MeDjb10&label=Profile%20views&color=ff4500&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=MeDjb10&label=Profile%20views&color=FF5733&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
@@ -9,9 +9,10 @@
 ## 👋 About Me
 - **Name:** Mohamed Amine JABOU
 - **Role:** Software Developer and Tech Enthusiast
-- **Aspiration:** Building Innovative, Scalable Solutions 🚀
-- **Passion:** Entrepreneurship and creating impactful solutions
-- **Interests:** Fitness, Web and Mobile Development
+- **Goals:** Building innovative and scalable solutions 🚀, mastering software architecture, and achieving a 100kg bench press by 2025.
+- **Passion:** Entrepreneurship, problem-solving, and crafting impactful solutions.
+- **Soft Skills:** Adaptability, teamwork, and problem-solving mindset.
+- **Interests:** Fitness, Web and Mobile Development, Data Analytics.
 
 ---
 
@@ -26,22 +27,30 @@
 ## 🔧 Skills
 
 ### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-FF4500?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FFD700?style=for-the-badge&logo=python&logoColor=darkgreen)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFC107?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-1E90FF?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frameworks & Libraries
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Android Studio (Java)](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-FF0000?style=for-the-badge&logo=angular&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-32CD32?style=for-the-badge&logo=node.js&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-00FA9A?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Django](https://img.shields.io/badge/Django-228B22?style=for-the-badge&logo=django&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-00FF7F?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ### Tools & Technologies
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Development Tools:** Git, VS Code
-- **Methodologies:** Agile (Scrum), Clean Architecture, Microservices, Service-Oriented Architecture
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Methodologies
+- Agile (Scrum)
+- Clean Architecture
+- Microservices
+- Service-Oriented Architecture (SOA)
 
 ---
 
@@ -62,23 +71,24 @@
 
 ---
 
-### 📚 [Restaurant Reservation System](https://github.com/MeDjb10/restaurant-reservation-system)
+### 📚 [Restaurant Reservation System](https://github.com/MeDjb10/SOA-ESB-restaurant-reservation-system)
 **Overview:** Manages restaurant reservations with seamless integration for table availability and payment processes using SOA and ESB architecture.
+
 ---
 
 ## 📈 GitHub Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=MeDjb10&show_icons=true&theme=gruvbox" alt="GitHub Stats" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeDjb10&theme=gruvbox" alt="GitHub Streak" />
-    <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=MeDjb10&show_icons=true&locale=en&theme=gruvbox&hide_border=true&langs_count=3&hide=Less,Tcl,Cython,Cmake,SCSS" 
-        alt="Top Languages" 
-        width="290" 
+    <img src="https://github-readme-stats.vercel.app/api?username=MeDjb10&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MeDjb10&theme=radical" alt="GitHub Streak" />
+    <img
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=MeDjb10&show_icons=true&locale=en&theme=radical&hide_border=true&langs_count=3&hide=Less,Tcl,Cython,Cmake,SCSS"
+        alt="Top Languages"
+        width="290"
     />
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img 
-            src="https://github-profile-trophy.vercel.app/?username=MeDjb10&theme=gruvbox&no-frame=true&column=4&margin-w=15&margin-h=15" 
-            alt="Trophy Showcase" 
+        <img
+            src="https://github-profile-trophy.vercel.app/?username=MeDjb10&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15"
+            alt="Trophy Showcase"
         />
     </a>
 </div>

@@ -1,7 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1200&color=82D1FF&center=true&vCenter=true&width=800&lines=Hello%F0%9F%91%8B%2C+I'm+Mohamed+Amine+JABOU;" alt="Typing SVG" /></a>
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=MeDjb10&label=Profile%20views&color=82D1FF&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=MeDjb10&label=Profile%20views&color=82D1F0&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---

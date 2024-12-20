@@ -21,7 +21,7 @@
 - 🌐 My Resume
     - [ATS-Compatible CV](https://github.com/MeDjb10/MeDjb10/blob/main/JabouMohamedAmine-PFE-CV.pdf)
 - 📱 Social:
-  - [LinkedIn](https://www.linkedin.com/in/med-amine-jabou-7b1980337/)
+  - [LinkedIn](https://www.linkedin.com/in/mohamed-amine-jabou-7b1980337/)
   - [Instagram](https://www.instagram.com/medaminejb_03/)
 
 ---

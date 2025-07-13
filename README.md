@@ -19,6 +19,7 @@
 ## 🌐 Connect with Me
 - 📫 Email: [jabou.medamine@gmail.com](mailto:jabou.medamine@gmail.com)
 - 🌐 My Resume
+    - [CV](https://github.com/MeDjb10/MeDjb10/blob/main/JabouMohamedAmineCV.pdf)
     - [ATS-Compatible CV](https://github.com/MeDjb10/MeDjb10/blob/main/JabouMohamedAmine-PFE-CV.pdf)
 - 📱 Social:
   - [LinkedIn](https://www.linkedin.com/in/mohamed-amine-jabou-7b1980337/)

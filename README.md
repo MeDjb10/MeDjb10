@@ -5,6 +5,18 @@
 </p>
 
 ---
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
+---
 
 ## 👋 About Me
 - **Name:** Mohamed Amine JABOU
@@ -56,19 +68,6 @@
 - Clean Architecture
 - Microservices
 - Service-Oriented Architecture (SOA)
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/breakout-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/breakout-light.svg"
-  />
-  <img alt="Breakout Game" src="images/breakout-light.svg" />
-</picture>
-
 
 ## 📈 GitHub Stats
 <div align="center">

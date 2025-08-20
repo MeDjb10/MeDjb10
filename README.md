@@ -4,7 +4,6 @@
     <img src="https://komarev.com/ghpvc/?username=MeDjb10&label=Profile%20views&color=82D1F0&style=for-the-badge" alt="Profile Views" />
 </p>
 
----
 <picture>
   <source
     media="(prefers-color-scheme: dark)"

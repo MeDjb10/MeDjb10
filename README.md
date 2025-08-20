@@ -57,29 +57,18 @@
 - Microservices
 - Service-Oriented Architecture (SOA)
 
----
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/breakout-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/breakout-light.svg"
+  />
+  <img alt="Breakout Game" src="images/breakout-light.svg" />
+</picture>
 
-## 🛠️ Projects
-
-### 🚀 [Jobify - Recruitment Platform](https://github.com/MeDjb10/Jobify)
-**Overview:** A platform designed to streamline the recruitment process by automatically matching candidates' skills with job descriptions.
-
----
-
-### 📊 [ETL Movies Data Warehouse and Analysis Project](https://github.com/MeDjb10/ETL-Movies-Data-Warehouse--Analysis-Project)
-**Overview:** A Data Warehouse project featuring ETL pipelines and visual insights for movie analytics.
-
----
-
-### 🗳️ [Online-Election](https://github.com/MeDjb10/Online-Election)
-**Overview:** A secure, real-time online voting platform with features like user registration, candidate profiles, and live result tracking.
-
----
-
-### 🍽️ [Restaurant Reservation System](https://github.com/MeDjb10/SOA-ESB-restaurant-reservation-system)
-**Overview:** Manages restaurant reservations with seamless integration for table availability and payment processes using SOA and ESB architecture.
-
----
 
 ## 📈 GitHub Stats
 <div align="center">
